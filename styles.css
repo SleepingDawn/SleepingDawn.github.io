@@ -240,6 +240,7 @@ h1 em {
   height: 100%;
   display: block;
   object-fit: cover;
+  object-position: center 24%;
   border-radius: inherit;
   filter: saturate(0.78) contrast(1.06);
 }
@@ -387,6 +388,19 @@ h3 { margin: 0; line-height: 1.15; letter-spacing: -0.03em; }
   text-transform: uppercase;
 }
 
+.project-result {
+  align-self: flex-start;
+  margin: 0;
+  padding-top: 18px;
+  color: var(--muted);
+  border-top: 1px solid var(--line);
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.68rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.project-result strong { color: var(--coral); font-size: 1.2rem; }
 .project-link { align-self: flex-start; color: var(--ink); font-size: 0.75rem; font-weight: 800; letter-spacing: 0.08em; text-decoration-color: var(--coral); text-underline-offset: 6px; text-transform: uppercase; }
 
 .resume-layout {

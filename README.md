@@ -1,6 +1,7 @@
 # SleepingDawn.github.io
 
-Personal portfolio created for SNU Lab 12, "Vibe Coding with GitHub Pages."
+Seyong Im's materials science and artificial intelligence portfolio, created
+for SNU Lab 12, "Vibe Coding with GitHub Pages."
 
 ## Preview locally
 
