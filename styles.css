@@ -415,6 +415,7 @@ h3 { margin: 0; line-height: 1.15; letter-spacing: -0.03em; }
 .timeline article { display: grid; grid-template-columns: 0.6fr 1.4fr; gap: 24px; padding: 28px 0; border-bottom: 1px solid var(--line); }
 .timeline h3 { font-size: clamp(1.25rem, 2.3vw, 2rem); }
 .timeline div p { margin: 8px 0 0; color: var(--muted); font-size: 0.9rem; }
+.timeline div p strong { color: var(--cyan); font-weight: 600; }
 
 .courses-section { background: linear-gradient(180deg, transparent, rgba(140, 228, 223, 0.035), transparent); }
 .course-list { padding: 0; margin: 0; list-style: none; border-top: 1px solid var(--line); }
